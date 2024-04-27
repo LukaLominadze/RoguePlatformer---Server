@@ -11,7 +11,7 @@ Unity 2021 and above is recommended for this project.
 
 <ins>**1. Downloading the repository:**</ins>
 
-Open the command prompt in the desired destination and simply clone the repository by running the command line ```git clone --recursive https://github.com/LukaLominadze/AsteroidBlaster```
+Open the command prompt in the desired destination and simply clone the repository by running the command line ```https://github.com/LukaLominadze/RoguePlatformer---Server```
 
 <ins>**2. Building the project:**</ins>
 
