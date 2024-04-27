@@ -20,6 +20,7 @@ Open the project directory from the Unity Hub and the project will be built.
 <ins>**3. Packages:**</ins>
 
 This project uses TextMeshPro, URP Unity packages and SuperTiled2Unity.
+For networking I opted to using Riptide, which you can find here: ```https://github.com/RiptideNetworking/Riptide```
 
 <ins>**4. Running the server:**</ins>
 
